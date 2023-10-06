@@ -12,7 +12,7 @@
     "chart.js": "2.9.4",
     "gulp": "4.0.2",
     "gulp-append-prepend": "1.0.8",
-    "postcss": "8.2.8",
+    "postcss": "8.4.31",
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "react-router": "5.2.0",
